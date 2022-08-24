@@ -7939,7 +7939,7 @@ textarea.form-control-lg {
 
 .rounded-circle {
   border-radius: 50% !important;
-  max-width: 400px;
+  max-width: 50%;
 }
 
 .rounded-pill {
