@@ -7290,8 +7290,8 @@ textarea.form-control-lg {
 }
 
 .my-5 {
-  margin-top: 3rem !important;
-  margin-bottom: 3rem !important;
+  margin-top: 1rem !important;
+  margin-bottom: -3rem !important;
 }
 
 .my-auto {
