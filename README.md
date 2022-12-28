@@ -1,5 +1,5 @@
 # Resume Website
-Personal website to show off my resume and credenials.
+Personal website to show off my resume and credentials.
 
 ## Author
 Maxwell Logan
