@@ -7290,6 +7290,8 @@ textarea.form-control-lg {
 }
 
 .my-5 {
+  margin: auto;
+  display: flex;
   margin-top: 1rem !important;
   margin-bottom: 1rem !important;
 }
