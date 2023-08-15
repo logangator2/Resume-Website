@@ -7496,9 +7496,7 @@ textarea.form-control-lg {
 }
 
 .py-5 .bg-image-full{
-  padding-top: 3rem !important;
-  padding-bottom: 3rem !important;
-  margin: auto;
+  text-align: center;
 }
 
 .pt-0 {
