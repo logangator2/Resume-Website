@@ -7493,7 +7493,13 @@ textarea.form-control-lg {
 .py-5 {
   padding-top: 3rem !important;
   padding-bottom: 3rem !important;
+  margin: auto;
 }
+
+/* .py-5 .bg-image-full{
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
+} */
 
 .pt-0 {
   padding-top: 0 !important;
